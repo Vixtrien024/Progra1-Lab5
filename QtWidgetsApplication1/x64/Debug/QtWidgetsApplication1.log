@@ -1,0 +1,8 @@
+﻿   Qt/MSBuild: 3.5.0.0
+   Qt: 6.12.0
+  uic QtWidgetsApplication1.ui
+  QtWidgetsApplication1.cpp
+  main.cpp
+  qrc_QtWidgetsApplication1.cpp
+  moc_QtWidgetsApplication1.cpp
+  QtWidgetsApplication1.vcxproj -> C:\Users\victo\OneDrive\Desktop\UNA\Progra 1\visual studio\lab 5\QtWidgetsApplication1\x64\Debug\QtWidgetsApplication1.exe
